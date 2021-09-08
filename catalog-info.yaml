@@ -6,6 +6,9 @@ metadata:
   annotations:
     github.com/project-slug: claireliu250/https://github.com/claireliu250/web-tools
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://www.baidu.com
+      title: 我是这个项目的网址
 spec:
   type: service
   lifecycle: experimental
