@@ -1,0 +1,8 @@
+site_name: "web-tool"
+site_description: "文档描述"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
